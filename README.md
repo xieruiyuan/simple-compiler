@@ -1,5 +1,5 @@
 # simple-compiler
-Tinyc compiler
-compiler feature
-Scaner
-Parser
+Tinyc compiler\n
+compiler feature\n
+Scaner\n
+Parser\n
